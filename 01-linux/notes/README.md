@@ -31,3 +31,4 @@ When creating a new note, you can use this structure:
 
 - [ ] Add your first note
 
+My first note
