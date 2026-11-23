@@ -16,8 +16,6 @@
 - `-G docker` - A flag -G on its own with docker would replace the users exsisting groups with docker. Especially bad, if the user is a part of sudo group. Sudo being admin.
 - `usermod --help` - provides a list of commands
 - `man usermod` - full manual of commands
-- `sudo apt update` - Refreshes Ubuntu's spftware list and shwos whats available.
-- ` sudo apt upgrade` - installs the newer versions of what I already have. 
 
 ## Examples
 

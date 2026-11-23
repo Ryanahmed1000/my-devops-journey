@@ -28,6 +28,6 @@ When creating a new note, you can use this structure:
 
 ## Your Notes
 
-- [Troubleshooting Docker permissions] 
-- [Troubleshooting AWS cli instillation]
+- [Troubleshooting Docker permissions](01-linux/notes/troubleshooting-docker-permissions.md)
+- [Troubleshooting AWS cli instillation](01-linux/notes/troubleshooting-aws-cli-install.md)
 
